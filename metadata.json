@@ -1,0 +1,7 @@
+{
+  "name": "LuxeBag Customizer",
+  "description": "A high-end 3D bag customization platform where users can design every detail of their perfect bag, from materials to custom prints.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
